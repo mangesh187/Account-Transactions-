@@ -47,7 +47,7 @@ class Account:
         amount *= -1
       print("{:5} {} on {} (local time was {})".format(amount, tran_type , date, date.astimezone()))
 
-#############################
+#-----------------------------
 
 if __name__ == '__main__':
   
@@ -56,8 +56,7 @@ if __name__ == '__main__':
   Parth.withdraw(600)
   Parth.show_transaction()
 
-  #############################
-
+#----------------------------
 
 
 
