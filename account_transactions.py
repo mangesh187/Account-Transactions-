@@ -55,7 +55,6 @@ if __name__ == '__main__':
   Parth.deposit(1500)
   Parth.withdraw(600)
   Parth.show_transaction()
-
   
 #----------------------------
 
